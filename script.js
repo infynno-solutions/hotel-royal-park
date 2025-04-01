@@ -54,10 +54,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Square/Deluxe Room/IMG-633339537.jpg',
-                'images/Hotel Royal Square/Deluxe Room/IMG-20240730-WA0219.jpg',
-                'images/Hotel Royal Square/Deluxe Room/IMG-633339544.jpg',
-                'images/Hotel Royal Square/Super Deluxe/IMG-633339545.jpg'
+                'images/Hotel Royal Park/Deluxe Room/IMG-633339537.jpg',
+                'images/Hotel Royal Park/Deluxe Room/IMG-20240730-WA0219.jpg',
+                'images/Hotel Royal Park/Deluxe Room/IMG-633339544.jpg',
+                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg'
             ]
         },
         suite: {
@@ -71,10 +71,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Square/Super Deluxe/IMG-633339545.jpg',
-                'images/Hotel Royal Square/Super Deluxe/IMG-633698894.jpg',
-                'images/Hotel Royal Square/Super Deluxe/IMG-633699013.jpg',
-                'images/Hotel Royal Square/Super Deluxe/IMG-633339545.jpg',
+                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
+                'images/Hotel Royal Park/Super Deluxe/IMG-633698894.jpg',
+                'images/Hotel Royal Park/Super Deluxe/IMG-633699013.jpg',
+                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
             ]
         },
         family: {
@@ -88,11 +88,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Square/Family Room/IMG-633339544.jpg',
-                'images/Hotel Royal Square/Family Room/IMG-633339537.jpg',
-                //  // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0214.jpg',
-                // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0274.jpg',
-                // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0275.jpg'
+                'images/Hotel Royal Park/Family Room/IMG-633339544.jpg',
+                'images/Hotel Royal Park/Family Room/IMG-633339537.jpg',
+                //  // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0214.jpg',
+                // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0274.jpg',
+                // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0275.jpg'
             ]
         },
         studio: {
@@ -106,10 +106,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Square/Suite Room/IMG-633339553.jpg',
-                'images/Hotel Royal Square/Suite Room/IMG-633698894.jpg',
-                // 'images/Hotel Royal Square/Suite Room/IMG-20240730-WA0271.jpg',
-                // 'images/Hotel Royal Square/Suite Room/IMG-20240730-WA0270.jpg',
+                'images/Hotel Royal Park/Suite Room/IMG-633339553.jpg',
+                'images/Hotel Royal Park/Suite Room/IMG-633698894.jpg',
+                // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0271.jpg',
+                // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0270.jpg',
             ]
         }
     };

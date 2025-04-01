@@ -4,31 +4,31 @@ let currentIndex = 0;
 let currentSection = 'Entrance';
 const images = {
   'Entrance': [
-    './images/Hotel Royal Square/Entrance/IMG-633339548.jpg',
-    './images/Hotel Royal Square/Entrance/IMG-633339550.jpg',
-    './images/Hotel Royal Square/Entrance/IMG-633699059.jpg',
-    // './images/Hotel Royal Square/Entrance/IMG-20240730-WA0228.jpg'
+    './images/Hotel Royal Park/Entrance/IMG-633339548.jpg',
+    './images/Hotel Royal Park/Entrance/IMG-633339550.jpg',
+    './images/Hotel Royal Park/Entrance/IMG-633699059.jpg',
+    // './images/Hotel Royal Park/Entrance/IMG-20240730-WA0228.jpg'
   ],
   'Rooms': [
-    'images/Hotel Royal Square/Deluxe Room/IMG-633339537.jpg',
-    'images/Hotel Royal Square/Deluxe Room/IMG-633339544.jpg',
-    // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0273.jpg',
-    // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0213.jpg',
-    // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0214.jpg',
-    // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0274.jpg',
-    // 'images/Hotel Royal Square/Family Room/IMG-20240730-WA0275.jpg',
-    'images/Hotel Royal Square/Suite Room/IMG-633339553.jpg',
-    // 'images/Hotel Royal Square/Suite Room/IMG-20240730-WA0266.jpg',
-    // 'images/Hotel Royal Square/Suite Room/IMG-20240730-WA0271.jpg',
-    // 'images/Hotel Royal Square/Suite Room/IMG-20240730-WA0270.jpg',
-    'images/Hotel Royal Square/Super Deluxe/IMG-633339545.jpg',
-    'images/Hotel Royal Square/Super Deluxe/IMG-633698894.jpg',
-    'images/Hotel Royal Square/Super Deluxe/IMG-633699013.jpg'
+    'images/Hotel Royal Park/Deluxe Room/IMG-633339537.jpg',
+    'images/Hotel Royal Park/Deluxe Room/IMG-633339544.jpg',
+    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0273.jpg',
+    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0213.jpg',
+    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0214.jpg',
+    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0274.jpg',
+    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0275.jpg',
+    'images/Hotel Royal Park/Suite Room/IMG-633339553.jpg',
+    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0266.jpg',
+    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0271.jpg',
+    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0270.jpg',
+    'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
+    'images/Hotel Royal Park/Super Deluxe/IMG-633698894.jpg',
+    'images/Hotel Royal Park/Super Deluxe/IMG-633699013.jpg'
 
   ],
   'Outdoors': [
-    './images/Hotel Royal Square/Outdoors/IMG-9487863.jpg',
-    // './images/Hotel Royal Square/Outdoors/IMG-20240730-WA0229.jpg'
+    './images/Hotel Royal Park/Outdoors/IMG-9487863.jpg',
+    // './images/Hotel Royal Park/Outdoors/IMG-20240730-WA0229.jpg'
     // Add more images as needed
   ]
 };
