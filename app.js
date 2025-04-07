@@ -27,8 +27,8 @@ const images = {
 
   ],
   'Outdoors': [
-    './images/Hotel Royal Park/Outdoors/IMG-9487863.jpg',
-    // './images/Hotel Royal Park/Outdoors/IMG-20240730-WA0229.jpg'
+    './images/Hotel Royal Park/Outdoors/outdoor-park.jpg',
+    './images/Hotel Royal Park/Outdoors/IMG-9487863.jpg'
     // Add more images as needed
   ]
 };
