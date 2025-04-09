@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const roomData = {
         deluxe: {
             title: 'Deluxe Room',
-            price: '₹2000/-',
+            price: '₹1299/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -54,15 +54,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Park/Deluxe Room/IMG-633339537.jpg',
-                'images/Hotel Royal Park/Deluxe Room/IMG-20240730-WA0219.jpg',
-                'images/Hotel Royal Park/Deluxe Room/IMG-633339544.jpg',
-                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg'
+                'images/Hotel Royal Park/Deluxe Room/1.jpg',
+                'images/Hotel Royal Park/Deluxe Room/2.jpg',
+                'images/Hotel Royal Park/Deluxe Room/3.jpg',
+                'images/Hotel Royal Park/Deluxe Room/4.jpg'
             ]
         },
         suite: {
             title: 'Super Deluxe Room',
-            price: '₹2500/-',
+            price: '₹2900/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -71,15 +71,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
-                'images/Hotel Royal Park/Super Deluxe/IMG-633698894.jpg',
-                'images/Hotel Royal Park/Super Deluxe/IMG-633699013.jpg',
-                'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
+                'images/Hotel Royal Park/Super Deluxe/1.jpg',
+                'images/Hotel Royal Park/Super Deluxe/2.jpg',
+                'images/Hotel Royal Park/Super Deluxe/3.jpg',
+                'images/Hotel Royal Park/Super Deluxe/4.jpg',
             ]
         },
         family: {
             title: 'Family Room',
-            price: '₹3000/-',
+            price: '₹1999/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -88,30 +88,29 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
-                'images/Hotel Royal Park/Family Room/IMG-633339544.jpg',
-                'images/Hotel Royal Park/Family Room/IMG-633339537.jpg',
-                //  // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0214.jpg',
-                // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0274.jpg',
-                // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0275.jpg'
+                'images/Hotel Royal Park/Family Room/1.jpg',
+                'images/Hotel Royal Park/Family Room/2.jpg',
+                'images/Hotel Royal Park/Family Room/3.jpg',
+                'images/Hotel Royal Park/Family Room/4.jpg',
             ]
         },
-        studio: {
-            title: 'Suite Room',
-            price: '₹3500/-',
-            description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
-            facilities: [
-                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
-                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
-                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
-                { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
-            ],
-            roomImage: [
-                'images/Hotel Royal Park/Suite Room/IMG-633339553.jpg',
-                'images/Hotel Royal Park/Suite Room/IMG-633698894.jpg',
-                // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0271.jpg',
-                // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0270.jpg',
-            ]
-        }
+        // studio: {
+        //     title: 'Suite Room',
+        //     price: '₹3500/-',
+        //     description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
+        //     facilities: [
+        //         { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
+        //         { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
+        //         { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
+        //         { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
+        //     ],
+        //     roomImage: [
+        //         'images/Hotel Royal Park/Suite Room/1.jpg',
+        //         'images/Hotel Royal Park/Suite Room/2.jpg',
+        //         'images/Hotel Royal Park/Suite Room/3.jpg',
+        //         'images/Hotel Royal Park/Suite Room/4.jpg',
+        //     ]
+        // }
     };
 
     let currentImageIndex = 0;

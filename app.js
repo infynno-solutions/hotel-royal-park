@@ -7,28 +7,20 @@ const images = {
     './images/Hotel Royal Park/Entrance/IMG-633339548.jpg',
     './images/Hotel Royal Park/Entrance/IMG-633339550.jpg',
     './images/Hotel Royal Park/Entrance/IMG-633699059.jpg',
-    // './images/Hotel Royal Park/Entrance/IMG-20240730-WA0228.jpg'
   ],
   'Rooms': [
-    'images/Hotel Royal Park/Deluxe Room/IMG-633339537.jpg',
-    'images/Hotel Royal Park/Deluxe Room/IMG-633339544.jpg',
-    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0273.jpg',
-    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0213.jpg',
-    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0214.jpg',
-    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0274.jpg',
-    // 'images/Hotel Royal Park/Family Room/IMG-20240730-WA0275.jpg',
-    'images/Hotel Royal Park/Suite Room/IMG-633339553.jpg',
-    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0266.jpg',
-    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0271.jpg',
-    // 'images/Hotel Royal Park/Suite Room/IMG-20240730-WA0270.jpg',
-    'images/Hotel Royal Park/Super Deluxe/IMG-633339545.jpg',
-    'images/Hotel Royal Park/Super Deluxe/IMG-633698894.jpg',
-    'images/Hotel Royal Park/Super Deluxe/IMG-633699013.jpg'
-
+    'images/Hotel Royal Park/Deluxe Room/1.jpg',
+    'images/Hotel Royal Park/Deluxe Room/3.jpg',
+    'images/Hotel Royal Park/Deluxe Room/4.jpg',
+    'images/Hotel Royal Park/Family Room/1.jpg',
+    'images/Hotel Royal Park/Family Room/2.jpg',
+    'images/Hotel Royal Park/Super Deluxe/2.jpg',
+    'images/Hotel Royal Park/Super Deluxe/3.jpg',
+    'images/Hotel Royal Park/Super Deluxe/4.jpg',
   ],
   'Outdoors': [
-    './images/Hotel Royal Park/Outdoors/outdoor-park.jpg',
-    './images/Hotel Royal Park/Outdoors/IMG-9487863.jpg'
+    './images/Hotel Royal Park/Outdoors/outdoor1-park.jpg',
+    './images/Hotel Royal Park/Outdoors/outdoor2-park.jpg',
     // Add more images as needed
   ]
 };
