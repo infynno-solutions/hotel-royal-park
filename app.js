@@ -4,9 +4,10 @@ let currentIndex = 0;
 let currentSection = 'Entrance';
 const images = {
   'Entrance': [
-    './images/Hotel Royal Park/Entrance/IMG-633339548.jpg',
+    './images/Hotel Royal Park/Entrance/Entrance.jpg',
     './images/Hotel Royal Park/Entrance/IMG-633339550.jpg',
     './images/Hotel Royal Park/Entrance/IMG-633699059.jpg',
+    './images/Hotel Royal Park/Entrance/IMG-633339548.jpg',
   ],
   'Rooms': [
     'images/Hotel Royal Park/Deluxe Room/1.jpg',
