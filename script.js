@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         suite: {
             title: 'Super Deluxe Room',
-            price: '₹2900/-',
+            price: '₹1999/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -72,14 +72,14 @@ document.addEventListener('DOMContentLoaded', function () {
             ],
             roomImage: [
                 'images/Hotel Royal Park/Super Deluxe/1.jpg',
-                'images/Hotel Royal Park/Super Deluxe/2.jpg',
                 'images/Hotel Royal Park/Super Deluxe/3.jpg',
                 'images/Hotel Royal Park/Super Deluxe/4.jpg',
+                'images/Hotel Royal Park/Super Deluxe/2.jpg',
             ]
         },
         family: {
             title: 'Family Room',
-            price: '₹1999/-',
+            price: '₹2900/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
